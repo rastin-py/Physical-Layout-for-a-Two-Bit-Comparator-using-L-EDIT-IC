@@ -1,5 +1,5 @@
 # Physical-Layout-for-a-Two-Bit-Comparator-using-L-EDIT-IC
-A physical layout of two bit comparator using L-EDIT IC as the final project for AVLSI course at the University of Guilan, Department of Computer Engineering, presented in Winter 2024 by Dr. Mahdi Aminian.
+Physical layout of a two-bit comparator using L-EDIT IC as the final project for AVLSI course at the University of Guilan, Department of Computer Engineering, presented in Winter 2024 by Dr. Mahdi Aminian.
 
 # Gate Level Schematic of a Two Bit Comparator
 ![image](https://github.com/user-attachments/assets/134208da-2d41-4175-a077-f5a884119725)
